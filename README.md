@@ -5,3 +5,4 @@ Hey viewers! I have created this repository so that it reminds me to never stop 
 2. Started Learning about Redux .
 3. Learnt about Kubernetes, containers, virtual machines. ( Will upload the notes super soon)
 4. Began the journey to learn Python.
+5. Creating an interesting AI+ react project for detecting facial landmark
